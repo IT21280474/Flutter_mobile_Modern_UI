@@ -27,7 +27,7 @@ class LoginPage extends StatelessWidget {
           //logo
           const Icon(
               Icons.lock,
-              size: 50,
+              size: 100,
           ),
 
           const SizedBox(height: 50),
